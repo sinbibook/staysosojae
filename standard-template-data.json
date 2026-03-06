@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-03-06T09:22:40.495Z",
-    "templateType": "full_banner_slider_flat",
+    "version": "1.17.0",
+    "generatedAt": "2026-03-06T09:23:16.284Z",
+    "templateType": "full_banner_slider_group",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
   },
@@ -2110,7 +2110,7 @@
   ],
   "homepage": {
     "domain": "staysosojae.kr",
-    "templateType": "full_banner_slider_flat",
+    "templateType": "full_banner_slider_group",
     "images": [
       {
         "logo": [

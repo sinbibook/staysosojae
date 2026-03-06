@@ -48,12 +48,11 @@ class HeaderFooterMapper extends BaseDataMapper {
     mapHeaderLogo() {
         if (!this.isDataLoaded || !this.data.property) return;
 
-        // customFields 헬퍼 함수 사용
         const propertyName = this.getPropertyName();
 
         // Header 로고 텍스트 매핑 (data-logo-text 속성 사용)
         const logoText = this.safeSelect('[data-logo-text]');
-        if (logoText && propertyName) {
+        if (logoText) {
             logoText.textContent = propertyName;
         }
 
@@ -103,15 +102,15 @@ class HeaderFooterMapper extends BaseDataMapper {
     }
 
     /**
-     * 예약 버튼에 realtimeBookingId 매핑 및 클릭 이벤트 설정
-     * Admin에서 전체 URL을 입력받아 그대로 사용
+     * 예약 버튼에 예약 URL 매핑 및 클릭 이벤트 설정
+     * Admin에서 전체 URL을 저장하므로 직접 사용
      */
     mapReservationButtons() {
         if (!this.isDataLoaded || !this.data.property) {
             return;
         }
 
-        // 전체 예약 URL 가져오기 (Admin에서 전체 링크 입력)
+        // 전체 예약 URL 가져오기 (Admin에서 전체 링크 저장)
         const realtimeBookingUrl = this.data.property.realtimeBookingId;
 
         if (!realtimeBookingUrl) {
@@ -283,8 +282,9 @@ class HeaderFooterMapper extends BaseDataMapper {
     }
 
     /**
-     * 객실 메뉴 아이템 동적 생성
-     * 모든 객실을 메뉴에 표시
+     * 객실 메뉴 아이템 동적 생성 (그룹 기반)
+     * rooms 배열에서 unique한 group 값을 추출하여 메뉴에 표시
+     * 예: A동, B동 등
      */
     mapRoomMenuItems() {
         const roomData = this.safeGet(this.data, 'rooms');
@@ -293,7 +293,49 @@ class HeaderFooterMapper extends BaseDataMapper {
             return;
         }
 
-        // Desktop 메뉴 업데이트 (모든 객실)
+        // 1. rooms 배열에서 unique한 group 값 추출
+        const uniqueGroups = [...new Set(roomData.map(room => room.group).filter(Boolean))];
+
+        // group이 없으면 기본 메뉴 생성 (room-list.html로 이동)
+        if (uniqueGroups.length === 0) {
+            // 2. Desktop 메뉴 업데이트
+            const spacesMenu = document.querySelector('[data-menu="space"]');
+
+            if (spacesMenu) {
+                const desktopSubmenu = spacesMenu.closest('.menu-item-wrapper')?.querySelector('.submenu');
+
+                if (desktopSubmenu) {
+                    desktopSubmenu.innerHTML = '';
+
+                    const button = document.createElement('button');
+                    button.className = 'submenu-item';
+                    button.textContent = '객실 안내';
+                    button.onclick = () => {
+                        window.location.href = 'room-list.html';
+                    };
+                    desktopSubmenu.appendChild(button);
+                }
+            }
+
+            // 3. Mobile 메뉴 업데이트
+            const mobileContainer = document.getElementById('mobile-spaces-items');
+
+            if (mobileContainer) {
+                mobileContainer.innerHTML = '';
+
+                const button = document.createElement('button');
+                button.className = 'mobile-sub-item';
+                button.textContent = '객실 안내';
+                button.onclick = () => {
+                    window.location.href = 'room-list.html';
+                };
+                mobileContainer.appendChild(button);
+            }
+
+            return;
+        }
+
+        // 2. Desktop 메뉴 업데이트 (group 기반)
         const spacesMenu = document.querySelector('[data-menu="space"]');
 
         if (spacesMenu) {
@@ -302,36 +344,30 @@ class HeaderFooterMapper extends BaseDataMapper {
             if (desktopSubmenu) {
                 desktopSubmenu.innerHTML = '';
 
-                roomData.forEach(room => {
-                    // customFields 헬퍼 함수 사용
-                    const roomName = this.getRoomName(room);
-
+                uniqueGroups.forEach(group => {
                     const button = document.createElement('button');
                     button.className = 'submenu-item';
-                    button.textContent = roomName;
+                    button.textContent = group;
                     button.onclick = () => {
-                        window.location.href = `room.html?id=${encodeURIComponent(room.id)}`;
+                        window.location.href = `room-list.html?group=${encodeURIComponent(group)}`;
                     };
                     desktopSubmenu.appendChild(button);
                 });
             }
         }
 
-        // Mobile 메뉴 업데이트 (모든 객실)
+        // 3. Mobile 메뉴 업데이트 (group 기반)
         const mobileContainer = document.getElementById('mobile-spaces-items');
 
         if (mobileContainer) {
             mobileContainer.innerHTML = '';
 
-            roomData.forEach(room => {
-                // customFields 헬퍼 함수 사용
-                const roomName = this.getRoomName(room);
-
+            uniqueGroups.forEach(group => {
                 const button = document.createElement('button');
                 button.className = 'mobile-sub-item';
-                button.textContent = roomName;
+                button.textContent = group;
                 button.onclick = () => {
-                    window.location.href = `room.html?id=${encodeURIComponent(room.id)}`;
+                    window.location.href = `room-list.html?group=${encodeURIComponent(group)}`;
                 };
                 mobileContainer.appendChild(button);
             });
@@ -400,7 +436,6 @@ class HeaderFooterMapper extends BaseDataMapper {
     mapFooterLogo() {
         if (!this.isDataLoaded || !this.data.property) return;
 
-        // customFields 헬퍼 함수 사용
         const propertyName = this.getPropertyName();
 
         // ImageHelpers가 로드되었는지 확인
@@ -409,7 +444,7 @@ class HeaderFooterMapper extends BaseDataMapper {
 
             // 텍스트는 그대로 매핑
             const footerLogoText = this.safeSelect('[data-footer-logo-text]');
-            if (footerLogoText && propertyName) {
+            if (footerLogoText) {
                 footerLogoText.textContent = propertyName;
             }
             return;
@@ -433,7 +468,7 @@ class HeaderFooterMapper extends BaseDataMapper {
 
         // Footer 로고 텍스트 매핑
         const footerLogoText = this.safeSelect('[data-footer-logo-text]');
-        if (footerLogoText && propertyName) {
+        if (footerLogoText) {
             footerLogoText.textContent = propertyName;
         }
     }
