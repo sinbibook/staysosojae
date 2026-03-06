@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-03-06T06:24:06.675Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-03-06T06:36:29.271Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
@@ -802,14 +802,14 @@
                   {
                     "id": "10d5716b-8322-4273-b737-495b05091d7a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-66arp0838p5.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "불멍",
                     "isSelected": true
                   },
                   {
                     "id": "b39bfa16-0a02-4c87-8ded-1cfed33cceb2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-t8erkevqdlq.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "객실 내부",
                     "isSelected": true
                   },
@@ -850,21 +850,21 @@
                   {
                     "id": "5960fbdc-c707-41a3-84b6-c3de41846bf0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-w4ud22xfvko.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "산속 수영장에서 즐기는 여유로운 휴식 🌿",
                     "isSelected": true
                   },
                   {
                     "id": "9f973a25-d6b8-49bb-bf4d-5e6adf1e4e2f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-dj5qyva06ir.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "풍경을 바라보며 잠시 쉬어가는 여유로운 공간 🌿",
                     "isSelected": true
                   },
                   {
                     "id": "1ef44f30-9c93-4c17-ab7b-ec8253eaf2cf",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-ujunuln10bh.jpg",
-                    "sortOrder": 8,
+                    "sortOrder": 2,
                     "description": "자연 소재를 담은 공간에서 머무는, 오래 기억에 남는 자연친화 숙소 🌿",
                     "isSelected": true
                   }
@@ -879,11 +879,26 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "57a1a956-8732-49f6-a4e9-272eaa7a5ef5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/directions_hero/1772778729075-noxqumayp8e.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "b10c2e83-7c7e-43e2-8338-70c1bec751c9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/directions_hero/1772778729076-npwi95a2vh8.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
-                "title": "",
-                "description": ""
+                "title": "📍 대중교통 이용법",
+                "description": "🚌 KTX 울산역 하차후\n택시 이용시 약 25~30분"
               }
             }
           ]
@@ -892,10 +907,35 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": " ",
+                "images": [
+                  {
+                    "id": "64b1235d-e44b-474e-997b-aee545ee601b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/main_hero/1772778729075-qtufmfv5j6i.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "신불산과 가지산이 어우러진 영남알프스 산자락\n통도사와 석남사가 자리한 울주 소소재가\n자연 풍경 속에서 잠시 쉬어가는 공간입니다.\n자연 소재로 채운 자연친화 공간에서\n조용한 휴식의 시간을 만나보세요.\n\n공용 휴식 공간과 노래방, 탁구장, 세미나실 등 \n다양한 부대시설도 마련되어 있습니다.\n\n자연 속에서 머무는 특별한 하루, \n소소재가에서 편안한 시간을 보내세요."
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "7b88b0b8-24f7-42c8-b373-8e8d23e831ba",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/main_about/1772778729075-eguknnikiw4.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "d8fe239b-3757-47f1-9a25-e761713d0e48"
+                    }
+                  ],
+                  "blockId": "d8fe239b-3757-47f1-9a25-e761713d0e48",
+                  "description": "탁 트인 전경에서 노을을 바라보며\n자연의 여유를 느끼고,\n편안한 쉼을 머무는 공간입니다. 🌿"
+                }
+              ]
             }
           ]
         },
@@ -906,7 +946,22 @@
             {
               "hero": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "4112d0a9-d389-41af-a861-9aedfdcfd5a1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/reservation_hero/1772778729076-3loyso73zbt.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "4ab074c8-eead-458d-84d9-90bfc0ec55de",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/reservation_hero/1772778805733-atehx6fap5l.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
                 "title": "",
