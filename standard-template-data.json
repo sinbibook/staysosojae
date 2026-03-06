@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-03-06T06:09:09.919Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-03-06T06:24:06.675Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
@@ -764,7 +764,7 @@
                 ]
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "b5781d44-9414-4f62-b48a-67d154e5b727",
@@ -773,19 +773,103 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "신불산과 가지산이 어우러진 영남알프스의 아름다운 산새 통도사와 석남사가 자리잡은 민족의 명당 그 곳에서 자연을 느끼며 휴식을 보낼 수 있는 소소재가 입니다.",
+                "images": [
+                  {
+                    "id": "09b62334-1e2a-469e-b4a5-4235ac2b278a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_essence/1772778240353-vadvmp2vc7.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3fef5894-91f2-4113-a757-23a9cbf1b04f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_essence/1772778240353-6hl2aseph7g.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "STAY SOSOJAE"
               },
               "gallery": {
-                "title": "",
-                "images": []
+                "title": "SOSOJAE Preview",
+                "images": [
+                  {
+                    "id": "10d5716b-8322-4273-b737-495b05091d7a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-66arp0838p5.jpg",
+                    "sortOrder": 1,
+                    "description": "불멍",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "b39bfa16-0a02-4c87-8ded-1cfed33cceb2",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-t8erkevqdlq.jpg",
+                    "sortOrder": 2,
+                    "description": "객실 내부",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a8c90bad-b386-4ed9-a316-7c68563594a8",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-r70ui6g5ow8.jpg",
+                    "sortOrder": 2,
+                    "description": "공용 수영장",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "b17ebf49-a521-40a9-859a-8dab3930c886",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-ek92m7e0vnu.jpg",
+                    "sortOrder": 3,
+                    "description": "야외 테라스",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a6ee7317-920a-4cb4-b95a-ccb73e0e871d",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-dws6d6zmy6f.jpg",
+                    "sortOrder": 4,
+                    "description": "스파",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "67154872-1422-4299-8b58-7c7bc27d10d6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-eouciczr8s.jpg",
+                    "sortOrder": 5,
+                    "description": "개별 바베큐",
+                    "isSelected": true
+                  }
+                ],
+                "description": " "
               },
               "signature": {
-                "title": "",
-                "images": []
+                "title": " 힐링스페이스",
+                "images": [
+                  {
+                    "id": "5960fbdc-c707-41a3-84b6-c3de41846bf0",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-w4ud22xfvko.jpg",
+                    "sortOrder": 1,
+                    "description": "산속 수영장에서 즐기는 여유로운 휴식 🌿",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "9f973a25-d6b8-49bb-bf4d-5e6adf1e4e2f",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-dj5qyva06ir.jpg",
+                    "sortOrder": 2,
+                    "description": "풍경을 바라보며 잠시 쉬어가는 여유로운 공간 🌿",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "1ef44f30-9c93-4c17-ab7b-ec8253eaf2cf",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-ujunuln10bh.jpg",
+                    "sortOrder": 8,
+                    "description": "자연 소재를 담은 공간에서 머무는, 오래 기억에 남는 자연친화 숙소 🌿",
+                    "isSelected": true
+                  }
+                ],
+                "description": ""
               }
             }
           ]
