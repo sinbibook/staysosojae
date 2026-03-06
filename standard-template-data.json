@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-03-06T07:11:06.059Z",
-    "templateType": "full_banner_slider_group",
+    "version": "1.8.0",
+    "generatedAt": "2026-03-06T07:17:24.164Z",
+    "templateType": "full_banner_slider_flat",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
   },
@@ -677,7 +677,7 @@
   ],
   "homepage": {
     "domain": "staysosojae.kr",
-    "templateType": "full_banner_slider_group",
+    "templateType": "full_banner_slider_flat",
     "images": [
       {
         "logo": [
@@ -897,14 +897,14 @@
                   {
                     "id": "4aea0176-df8a-4483-8b11-7c7a736e03c7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/directions_hero/1772780186053-gjq64ae1e95.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "b10c2e83-7c7e-43e2-8338-70c1bec751c9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/directions_hero/1772778729076-npwi95a2vh8.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   }
