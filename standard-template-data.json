@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-03-10T01:21:30.523Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-03-10T02:07:29.602Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
@@ -81,14 +81,14 @@
           {
             "id": "2699da55-5243-4279-b2f5-d86f0b3c9983",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1772774825416-8495eakwqmg.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           },
           {
             "id": "bcc9b586-191f-481b-a1ed-38c9a00e0d98",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1772774825416-uaddjvsbn0p.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
@@ -96,6 +96,20 @@
             "id": "ccc23280-927f-4b4b-b7f6-c4828073a930",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1772774825416-b1sjpqkvy9.jpg",
             "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "31798e3a-0009-476f-be21-3f96b04409fe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773107102633-3p7xo6noasm.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e1362886-c603-45a0-9387-c5319ad5519a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773107102633-wykde9c439j.jpg",
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           }
@@ -232,16 +246,16 @@
             "isSelected": true
           },
           {
-            "id": "0b590312-1145-44eb-9b4f-0f35b7f985f7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9acf7d37-92b8-4e44-94fa-4ededfecaff7/main/1772786974849-zodg9qz8sls.jpg",
+            "id": "be96e884-0c5c-44a6-8fb8-f21f014a3a17",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9acf7d37-92b8-4e44-94fa-4ededfecaff7/main/1772786974848-tehdqmyl92.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
           {
-            "id": "be96e884-0c5c-44a6-8fb8-f21f014a3a17",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9acf7d37-92b8-4e44-94fa-4ededfecaff7/main/1772786974848-tehdqmyl92.jpg",
-            "sortOrder": 0,
+            "id": "0b590312-1145-44eb-9b4f-0f35b7f985f7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9acf7d37-92b8-4e44-94fa-4ededfecaff7/main/1772786974849-zodg9qz8sls.jpg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true
           }
@@ -2639,7 +2653,9 @@
             "isSelected": true,
             "category": "property_exterior"
           }
-        ]
+        ],
+        "name": "울산 소소재",
+        "nameEn": "Ulsan Sosojae"
       },
       "roomtypes": [
         {
