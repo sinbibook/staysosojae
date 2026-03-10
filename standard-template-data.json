@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-03-10T02:25:18.495Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-03-10T03:17:14.575Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
@@ -79,13 +79,6 @@
         "displayOrder": 3,
         "images": [
           {
-            "id": "2699da55-5243-4279-b2f5-d86f0b3c9983",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1772774825416-8495eakwqmg.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "bcc9b586-191f-481b-a1ed-38c9a00e0d98",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1772774825416-uaddjvsbn0p.jpg",
             "sortOrder": 0,
@@ -93,23 +86,23 @@
             "isSelected": true
           },
           {
-            "id": "ccc23280-927f-4b4b-b7f6-c4828073a930",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1772774825416-b1sjpqkvy9.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "31798e3a-0009-476f-be21-3f96b04409fe",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773107102633-3p7xo6noasm.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "e1362886-c603-45a0-9387-c5319ad5519a",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773107102633-wykde9c439j.jpg",
+            "id": "70a7c801-f6fa-4474-9be9-5be39841f7a8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773109693533-w61phzw4hj.jpg",
             "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8322a2e3-d66f-48bd-9f48-495259da211e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773109693533-0zyswbztep9i.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5cf8bcac-8489-44fe-ad85-e241ed3bfbd1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773109693533-zzgx8wr76br.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           }
@@ -223,8 +216,8 @@
             "isSelected": true
           },
           {
-            "id": "fd6ab888-f3fd-446b-aeae-1d565b22976b",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1772774857900-bznp20nfnau.jpg",
+            "id": "07ccba3f-c286-4d02-af8a-9a8783e22547",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1773111794013-3tnksodfx7y.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true
@@ -2556,6 +2549,7 @@
         "popups": []
       },
       "property": {
+        "name": "울산 소소재",
         "images": [
           {
             "id": "c1a3c750-b825-4aff-9bb6-711bde6ed7cd",
@@ -2654,7 +2648,6 @@
             "category": "property_exterior"
           }
         ],
-        "name": "울산 소소재",
         "nameEn": "Ulsan Sosojae"
       },
       "roomtypes": [
@@ -7466,7 +7459,6 @@
           ]
         }
       ]
-    },
-    "id": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
+    }
   }
 }
