@@ -1,5 +1,9 @@
 /* Members Page Styles */
 
+body {
+    background-color: #D4CAB5;
+}
+
 .members-section {
     padding: 120px 0 80px;
 }
