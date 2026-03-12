@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.39.0",
-    "generatedAt": "2026-03-12T00:09:55.612Z",
+    "version": "1.40.0",
+    "generatedAt": "2026-03-12T00:36:28.917Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
@@ -855,22 +855,22 @@
                 "title": "",
                 "images": [
                   {
+                    "id": "8566f533-b407-4a73-959f-54a5e839f7b1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1773274105859-4ybbomxkom4.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
                     "id": "523efc2c-932a-43e9-bdc9-9eec1a772136",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772775521036-i4nrz073yxq.jpg",
-                    "sortOrder": 0,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "d8b4415e-b09f-4edc-8361-7831689e5b9e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772775521036-1618a2ky3en.jpg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "8566f533-b407-4a73-959f-54a5e839f7b1",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1773274105859-4ybbomxkom4.jpg",
                     "sortOrder": 2,
                     "description": "",
                     "isSelected": true
