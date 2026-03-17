@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.46.0",
-    "generatedAt": "2026-03-17T01:25:39.213Z",
+    "version": "1.47.0",
+    "generatedAt": "2026-03-17T05:15:55.369Z",
     "templateType": "full_banner_slider_flat",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
@@ -1176,7 +1176,29 @@
         }
       },
       "popup": {
-        "popups": []
+        "popups": [
+          {
+            "id": "b08d75a5-5eb7-4ac8-a967-a7709cb7e329",
+            "link": "",
+            "title": "",
+            "images": [
+              {
+                "id": "b0b8623e-9f97-4a77-a765-6d0c286a33e7",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/popup/1773724531145-3q2h7d7b1hk.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "b08d75a5-5eb7-4ac8-a967-a7709cb7e329"
+              }
+            ],
+            "slider": false,
+            "enabled": true,
+            "endDate": null,
+            "sortOrder": 0,
+            "startDate": null,
+            "description": ""
+          }
+        ]
       },
       "property": {
         "name": "울산 소소재",
@@ -1941,6 +1963,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
   }
 }
