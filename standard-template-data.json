@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.58.0",
-    "generatedAt": "2026-05-04T01:25:59.519Z",
+    "version": "1.59.0",
+    "generatedAt": "2026-05-04T02:27:50.651536287Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
     "homepageId": "9e497431-36db-4fb5-95d2-cd763c0d2e3b"
@@ -34,7 +34,7 @@
       "맛집",
       "테마파크"
     ],
-    "services": [],
+    "services": [ ],
     "propertyThemes": [
       "산뷰",
       "힐링",
@@ -53,7 +53,8 @@
       "businessEmail": "0000@naver.com",
       "businessType": "corporate",
       "businessCategory": "숙박업",
-      "eCommerceRegistrationNumber": ""
+      "eCommerceRegistrationNumber": "",
+      "ecommerceRegistrationNumber": ""
     },
     "contractInfo": {
       "contractStartDate": "2025-09-10T00:00:00.000Z",
@@ -83,28 +84,32 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1772774825416-uaddjvsbn0p.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "70a7c801-f6fa-4474-9be9-5be39841f7a8",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773109693533-w61phzw4hj.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "8322a2e3-d66f-48bd-9f48-495259da211e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773109693533-0zyswbztep9i.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "5cf8bcac-8489-44fe-ad85-e241ed3bfbd1",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ca8858a0-8e32-417d-89f3-fbdae391de98/main/1773109693533-zzgx8wr76br.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -116,67 +121,76 @@
         "displayOrder": 4,
         "images": [
           {
-            "id": "98a89806-25ef-4a9e-9e3f-8bc5fd275590",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826910-6bup776hgaj.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "4b1ea083-a4dc-430a-9aa2-3a85f2f0d000",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826910-mo8e2ofgq8m.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "7a886865-c098-41c9-ae09-7cb350e2be4d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826911-c1rkggipbaq.jpg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "4e508c2a-73bd-4658-953c-12312fc3e80d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826911-h2r664qrgq.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "54363006-ca8d-437e-804c-8c16c2f81f6c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772785931168-5oudcq088im.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "98a89806-25ef-4a9e-9e3f-8bc5fd275590",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826910-6bup776hgaj.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "ffb5365b-1341-47b5-8f9d-97846bd73267",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772785931169-eah9icllk98.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "441355dc-fb8d-4914-8fb1-537722e7b2e8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772785931170-ti1dbxu4q0t.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "835a2e31-f891-4cc5-bea2-da37eb395092",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772785931170-6inq7rfbgk7.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "441355dc-fb8d-4914-8fb1-537722e7b2e8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772785931170-ti1dbxu4q0t.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4b1ea083-a4dc-430a-9aa2-3a85f2f0d000",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826910-mo8e2ofgq8m.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "0d444b5f-e986-4174-920b-43e2c34284ad",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826911-yy4yy3rl6tk.jpg",
             "sortOrder": 6,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "7a886865-c098-41c9-ae09-7cb350e2be4d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826911-c1rkggipbaq.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "4e508c2a-73bd-4658-953c-12312fc3e80d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/850a347d-81df-4a85-9406-530cd825e89c/main/1772774826911-h2r664qrgq.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -188,39 +202,44 @@
         "displayOrder": 5,
         "images": [
           {
-            "id": "d7d2dea9-52a7-4973-b994-bec9e4c335d6",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1772774857900-g657x6uoua.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "f6159434-ba68-4208-8814-6037c55d25de",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1772774857900-39u3wt2z6sk.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "6e0b3a36-1cf1-421c-946d-abd65cdbac93",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1772774857900-39kg392nyu4.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "1555df6a-07d4-4229-802d-8ba42a01f0d0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1772774857900-c58bhy5cccp.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d7d2dea9-52a7-4973-b994-bec9e4c335d6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1772774857900-g657x6uoua.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "07ccba3f-c286-4d02-af8a-9a8783e22547",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1773111794013-3tnksodfx7y.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6e0b3a36-1cf1-421c-946d-abd65cdbac93",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1772774857900-39kg392nyu4.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f6159434-ba68-4208-8814-6037c55d25de",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/65d5e25f-796e-4e5f-9bfb-f23260a348af/main/1772774857900-39u3wt2z6sk.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -236,21 +255,24 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9acf7d37-92b8-4e44-94fa-4ededfecaff7/main/1772786053228-05k1g96utv3f.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "be96e884-0c5c-44a6-8fb8-f21f014a3a17",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9acf7d37-92b8-4e44-94fa-4ededfecaff7/main/1772786974848-tehdqmyl92.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "0b590312-1145-44eb-9b4f-0f35b7f985f7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/9acf7d37-92b8-4e44-94fa-4ededfecaff7/main/1772786974849-zodg9qz8sls.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -262,39 +284,44 @@
         "displayOrder": 7,
         "images": [
           {
-            "id": "c4d41617-b517-4aa8-96c9-aa1a88da5890",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b402127b-c4be-47d3-9251-c9fe4b36b970/main/1772775131674-vdgbnbiq4ed.jpg",
-            "sortOrder": 2,
+            "id": "889e09d3-86dc-435f-bfac-eba7a9b1be6f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b402127b-c4be-47d3-9251-c9fe4b36b970/main/1772775131674-xml58z1e20l.jpg",
+            "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "036950de-0fc2-4118-a33c-7ec1305f869f",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b402127b-c4be-47d3-9251-c9fe4b36b970/main/1772775131674-a44xo5j2tkc.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c4d41617-b517-4aa8-96c9-aa1a88da5890",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b402127b-c4be-47d3-9251-c9fe4b36b970/main/1772775131674-vdgbnbiq4ed.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "38045dfa-a2a0-4a16-90e6-27020c9dc317",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b402127b-c4be-47d3-9251-c9fe4b36b970/main/1772775131674-wqyo0eji2j.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "889e09d3-86dc-435f-bfac-eba7a9b1be6f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b402127b-c4be-47d3-9251-c9fe4b36b970/main/1772775131674-xml58z1e20l.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "1be22eaf-bea9-46ca-b1ff-e885bd26bda8",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b402127b-c4be-47d3-9251-c9fe4b36b970/main/1772775131674-4s9vmvpag0e.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -306,39 +333,44 @@
         "displayOrder": 8,
         "images": [
           {
+            "id": "88ee5320-1d70-446a-91ed-db6f7aa9b0dc",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6870a8fa-8960-4225-8ef6-7d3e6847460b/main/1772775420491-2mdp9ss86gs.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "4d2dc530-a8c9-438d-bcad-efc13084c761",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6870a8fa-8960-4225-8ef6-7d3e6847460b/main/1772775420491-vxqawku29qd.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "20a46231-f16d-4bbb-afb2-e765fdf86eb2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6870a8fa-8960-4225-8ef6-7d3e6847460b/main/1772775420491-p0utn1nnetn.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "2027dc86-ac92-48d4-ad42-cc1fbcc783e2",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6870a8fa-8960-4225-8ef6-7d3e6847460b/main/1772775420491-tsxtrtzsvlb.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "88ee5320-1d70-446a-91ed-db6f7aa9b0dc",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6870a8fa-8960-4225-8ef6-7d3e6847460b/main/1772775420491-2mdp9ss86gs.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "46178b3d-c43f-4d44-9f19-016aec79f48c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6870a8fa-8960-4225-8ef6-7d3e6847460b/main/1772775420491-a68gfhn1vxs.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "20a46231-f16d-4bbb-afb2-e765fdf86eb2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6870a8fa-8960-4225-8ef6-7d3e6847460b/main/1772775420491-p0utn1nnetn.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -350,32 +382,36 @@
         "displayOrder": 91,
         "images": [
           {
+            "id": "4610b2b9-ecac-49fa-a275-b59e1dccf486",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1e75ed9a-1671-4da1-a9bc-425b5df80481/main/1772775133236-8z39xy1dscp.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "e07c0d36-7498-4c31-902c-e773088093ba",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1e75ed9a-1671-4da1-a9bc-425b5df80481/main/1772775133237-bzleqe3ijpm.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "6f26998d-c0df-4f09-a466-dcf725c996f5",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1e75ed9a-1671-4da1-a9bc-425b5df80481/main/1772775133237-wa0zohuo1a.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "1c1b9576-760e-4f4c-a76c-e6292135c85a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1e75ed9a-1671-4da1-a9bc-425b5df80481/main/1772775133237-hdwtgzcmg8k.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "4610b2b9-ecac-49fa-a275-b59e1dccf486",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1e75ed9a-1671-4da1-a9bc-425b5df80481/main/1772775133236-8z39xy1dscp.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -387,25 +423,28 @@
         "displayOrder": 92,
         "images": [
           {
-            "id": "e342ad1f-42c6-49c4-9f2c-135d7533822f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5f73cfa2-5a26-4242-9561-4e062461d1c1/main/1772775421896-bj6bcwp9sit.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "id": "1fb89fbb-459b-47af-8608-80a7d8a3fafd",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5f73cfa2-5a26-4242-9561-4e062461d1c1/main/1772775421896-1sg2ekfsw7a.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "e342ad1f-42c6-49c4-9f2c-135d7533822f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5f73cfa2-5a26-4242-9561-4e062461d1c1/main/1772775421896-bj6bcwp9sit.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "429cac52-578d-43f9-8b05-cedd8fd3a061",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/5f73cfa2-5a26-4242-9561-4e062461d1c1/main/1772775421896-1wer9f8c12b.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -417,39 +456,44 @@
         "displayOrder": 93,
         "images": [
           {
+            "id": "b5566d0d-4049-4aea-b1bd-0a9e70845ca7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d741719-1ba7-4914-9f7e-c9800dd30f29/main/1772775129890-5ftm23v3ais.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
             "id": "51db5ae4-ba8e-450e-8701-0fafa68c954b",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d741719-1ba7-4914-9f7e-c9800dd30f29/main/1772775129891-marxh248yzp.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "143b6518-c81c-4a2c-9c24-434fe8e72b4a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d741719-1ba7-4914-9f7e-c9800dd30f29/main/1772775129891-aaox8mr76qg.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "f9851c5b-c6e4-47c7-887b-96b4b585c69a",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d741719-1ba7-4914-9f7e-c9800dd30f29/main/1772775129891-rb6rrr0jhng.jpg",
             "sortOrder": 3,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "b5566d0d-4049-4aea-b1bd-0a9e70845ca7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d741719-1ba7-4914-9f7e-c9800dd30f29/main/1772775129890-5ftm23v3ais.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "49a78cdc-b1be-4d97-ba47-4492c202d96c",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/2d741719-1ba7-4914-9f7e-c9800dd30f29/main/1772775129891-9at2u82udto.jpg",
             "sortOrder": 4,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -509,7 +553,8 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/thumbnail/1773047827672-iws2gw9vh9o.jpg",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ],
         "exterior": [
@@ -518,81 +563,92 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827672-2nqlztg0w8a.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "64575d4a-a83a-4213-a80d-c93d9df1284d",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-shlyuos7ot8.jpg",
-            "sortOrder": 8,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "b50e3f1a-8954-42db-98fb-342b041dc3c4",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827672-f5k8d6kyawl.jpg",
-            "sortOrder": 3,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "0fb8a7b0-131a-47ec-b84c-9bd16eb68a76",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-qrrvne96zsq.jpg",
-            "sortOrder": 6,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "8a2aeecd-85c3-4449-80f4-b7769e21d3f5",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827672-afxb9w7t02.jpg",
             "sortOrder": 1,
             "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "94299dd9-716a-452e-8ff4-0831fa6567cd",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827672-i7hal9nsxfd.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "0838854c-2217-43a6-a39d-95ab4c67dbaa",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-0r0zrgbvh1m.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "761510de-40eb-43d8-b88a-9b53eebc5fa7",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-j94ptp7v3l.jpg",
-            "sortOrder": 9,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "eeb683aa-ff90-4309-9234-e014416c7cbe",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-dnny6uhl2g.jpg",
-            "sortOrder": 5,
-            "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "ff862e3f-4417-496d-9d68-f0e885339b20",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827672-mwz4vwteuog.jpg",
             "sortOrder": 2,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b50e3f1a-8954-42db-98fb-342b041dc3c4",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827672-f5k8d6kyawl.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "94299dd9-716a-452e-8ff4-0831fa6567cd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827672-i7hal9nsxfd.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "eeb683aa-ff90-4309-9234-e014416c7cbe",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-dnny6uhl2g.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0fb8a7b0-131a-47ec-b84c-9bd16eb68a76",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-qrrvne96zsq.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           },
           {
             "id": "77a176dd-eb6a-44d1-859e-80f9fafef6ed",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-0qe6y9hgplf.jpg",
             "sortOrder": 7,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "64575d4a-a83a-4213-a80d-c93d9df1284d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-shlyuos7ot8.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "761510de-40eb-43d8-b88a-9b53eebc5fa7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-j94ptp7v3l.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "0838854c-2217-43a6-a39d-95ab4c67dbaa",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc/exterior/1773047827673-0r0zrgbvh1m.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ],
-        "surrounding": [],
-        "commonArea": []
+        "surrounding": [ ],
+        "commonArea": [ ]
       }
     ],
     "nameEn": "Ulsan Ulju Sosojae",
@@ -603,16 +659,12 @@
   "rooms": [
     {
       "id": "320d0a1d-2d69-465e-8209-e80361cc9532",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "A101 (6인실, 침대룸, 개별테라스)",
-      "nameEn": "A101",
       "description": "",
       "roomInfo": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (침대룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -621,17 +673,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -665,32 +706,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 0,
-      "createdAt": "2026-02-24T02:02:07.890Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 0
     },
     {
       "id": "4fbb2d8d-09c8-41ee-84d6-e0298181a028",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "B101 (6인실, 침대룸, 개별테라스)",
-      "nameEn": "B101",
       "description": "",
       "roomInfo": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (침대룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -699,17 +742,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -743,32 +775,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 1,
-      "createdAt": "2026-04-07T03:56:16.578Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 1
     },
     {
       "id": "045c67cf-76e5-4ac4-b7c1-1fc4b9995e60",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "C101 (6인실, 온돌룸, 개별테라스)",
-      "nameEn": "C101",
       "description": "",
       "roomInfo": "분리형, 거실1+온돌룸(침구세트2)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (온돌룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -777,17 +811,6 @@
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -821,32 +844,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 2,
-      "createdAt": "2026-02-24T02:02:07.952Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 2
     },
     {
       "id": "1954f91b-f952-462c-a283-964f028cf6cc",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "D101 (6인실, 온돌룸, 개별테라스)",
-      "nameEn": "D101",
       "description": "",
       "roomInfo": "분리형, 거실1+온돌룸(침구세트2)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (온돌룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -855,17 +880,6 @@
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -899,32 +913,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 3,
-      "createdAt": "2026-04-07T03:56:16.763Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 3
     },
     {
       "id": "4262a504-fc4b-43bf-bd52-7b01b1e381ec",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "E101 (6인실, 온돌룸, 개별테라스)",
-      "nameEn": "E101",
       "description": "",
       "roomInfo": "분리형, 거실1+온돌룸(침구세트2)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (온돌룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -933,17 +949,6 @@
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -977,32 +982,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 4,
-      "createdAt": "2026-04-07T03:56:16.682Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 4
     },
     {
       "id": "d4709962-d7e0-4ece-8c09-dfcae007fa9c",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "F101 (6인실, 온돌룸, 개별테라스)",
-      "nameEn": "F101",
       "description": "",
       "roomInfo": "분리형, 거실1+온돌룸(침구세트2)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (온돌룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1011,17 +1018,6 @@
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -1055,32 +1051,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 5,
-      "createdAt": "2026-04-07T03:56:17.046Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 5
     },
     {
       "id": "6a876f7d-87e8-4792-b357-b052095643b8",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "G101 (6인실, 온돌룸, 개별테라스)",
-      "nameEn": "G101",
       "description": "",
       "roomInfo": "분리형, 거실1+온돌룸(침구세트2)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (온돌룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1089,17 +1087,6 @@
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -1133,32 +1120,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 6,
-      "createdAt": "2026-04-07T03:56:16.976Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 6
     },
     {
       "id": "370fda4f-5efa-4d2b-b04c-6c77e3f221c1",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "H101 (6인실, 온돌룸, 개별테라스)",
-      "nameEn": "H101",
       "description": "",
       "roomInfo": "분리형, 거실1+온돌룸(침구세트2)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (온돌룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1167,17 +1156,6 @@
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -1211,32 +1189,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 7,
-      "createdAt": "2026-04-07T03:56:16.862Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 7
     },
     {
       "id": "2d515d8d-fd2b-4eaf-a5dd-1ef39f632caf",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "I101 (6인실, 온돌룸, 개별테라스)",
-      "nameEn": "I101",
       "description": "",
       "roomInfo": "분리형, 거실1+온돌룸(침구세트2)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (온돌룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1245,17 +1225,6 @@
         "livingRoom": 1,
         "ondol": 1,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "온돌"
@@ -1289,32 +1258,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 8,
-      "createdAt": "2026-04-07T03:56:16.955Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 8
     },
     {
       "id": "8514135d-5d89-479d-8d77-9f65643f570a",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "J101 (6인실, 침대룸, 개별테라스)",
-      "nameEn": "J101",
       "description": "",
       "roomInfo": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "6인실 (침대룸)",
       "size": 79.34,
-      "sizePyeong": 24,
       "baseOccupancy": 6,
       "maxOccupancy": 6,
       "totalRoomCount": {
@@ -1324,17 +1295,6 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "Y",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "더블 베드"
       ],
@@ -1367,32 +1327,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "Y"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 9,
-      "createdAt": "2026-04-07T03:56:17.278Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 9
     },
     {
       "id": "d684a9e7-a390-4607-af9e-4865d8eacff3",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "A201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "A201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1401,17 +1363,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1444,32 +1395,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 10,
-      "createdAt": "2026-03-06T08:26:01.279Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 10
     },
     {
       "id": "6aeac496-0e4d-4a77-9543-e165f04965c1",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "A202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "A202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1478,17 +1431,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 1
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1521,32 +1463,34 @@
         "원룸형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 11,
-      "createdAt": "2026-03-06T08:26:01.374Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 11
     },
     {
       "id": "7c90eeb9-c8ff-45d9-9c47-0df2b178c68d",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "B201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "B201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1555,17 +1499,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1599,32 +1532,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 12,
-      "createdAt": "2026-04-07T03:56:16.904Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 12
     },
     {
       "id": "d3deb8d3-44f0-40bd-8582-1a5577107448",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "B202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "B202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1633,17 +1568,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1677,32 +1601,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 13,
-      "createdAt": "2026-04-07T03:56:16.966Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 13
     },
     {
       "id": "05d14f69-1199-4182-81b0-fa6fbc16d199",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "C201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "C201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1711,17 +1637,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1755,32 +1670,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 14,
-      "createdAt": "2026-04-07T03:56:17.093Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 14
     },
     {
       "id": "42c7b8d9-3f05-4d81-8804-18426d5fd585",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "C202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "C202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1789,17 +1706,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1833,32 +1739,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 15,
-      "createdAt": "2026-04-07T03:56:17.058Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 15
     },
     {
       "id": "26571887-39b8-4f2f-adcf-0c572535673a",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "D201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "D201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1867,17 +1775,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1911,32 +1808,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 16,
-      "createdAt": "2026-04-07T03:56:16.853Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 16
     },
     {
       "id": "046cd3e5-1ccc-4ee0-a436-156a510af931",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "D202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "D202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -1945,17 +1844,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -1989,32 +1877,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 17,
-      "createdAt": "2026-04-07T03:56:17.231Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 17
     },
     {
       "id": "fcf6e8a9-184f-4dff-b424-59986b3db8ef",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "E201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "E201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2023,17 +1913,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2067,32 +1946,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 18,
-      "createdAt": "2026-04-07T03:56:17.163Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 18
     },
     {
       "id": "610dbdaf-8389-4304-8018-8077377dea85",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "E202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "E202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2101,17 +1982,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2145,32 +2015,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 19,
-      "createdAt": "2026-04-07T03:56:17.259Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 19
     },
     {
       "id": "ac5f13a4-3910-468e-b174-316c7f941599",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "F201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "F201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2179,17 +2051,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2223,32 +2084,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 20,
-      "createdAt": "2026-04-07T03:56:17.162Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 20
     },
     {
       "id": "a5e77584-8c9c-4dd4-9d4c-e9bd36056831",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "G201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "G201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2257,17 +2120,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2301,32 +2153,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 21,
-      "createdAt": "2026-04-07T03:56:17.088Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 21
     },
     {
       "id": "b6395ee9-4b7c-4f58-aa65-7ea9c92cfd72",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "G202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "G202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2335,17 +2189,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2379,32 +2222,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 22,
-      "createdAt": "2026-04-07T03:56:17.211Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 22
     },
     {
       "id": "1d6a9f61-b381-4577-9fed-3a21cf649bb0",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "H201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "H201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2413,17 +2258,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2457,32 +2291,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 23,
-      "createdAt": "2026-04-07T03:56:17.051Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 23
     },
     {
       "id": "16e4ef8d-b117-4a1d-949e-bef1f015592f",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "H202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "H202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2491,17 +2327,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2535,32 +2360,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 24,
-      "createdAt": "2026-04-07T03:56:17.182Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 24
     },
     {
       "id": "f81b2ee1-b0af-41eb-898d-d9e8f40dfb12",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "I201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "I201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2569,17 +2396,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2613,32 +2429,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 25,
-      "createdAt": "2026-04-07T03:56:17.235Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 25
     },
     {
       "id": "4975e5bf-d445-452e-9b23-0eb301da2ed8",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "I202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "I202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2647,17 +2465,6 @@
         "livingRoom": 1,
         "ondol": 0,
         "kitchen": 0
-      },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
       },
       "bedTypes": [
         "더블 베드"
@@ -2691,32 +2498,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 26,
-      "createdAt": "2026-04-07T03:56:17.192Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 26
     },
     {
       "id": "dec9194a-a0e4-4845-bc92-c79b73a8675f",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "J201 (2인실, 침대룸, 개별테라스)",
-      "nameEn": "J201",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "2인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 2,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2726,17 +2535,6 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "더블 베드"
       ],
@@ -2769,32 +2567,34 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 27,
-      "createdAt": "2026-04-07T03:56:17.230Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 27
     },
     {
       "id": "36319b0f-9b1e-43de-a799-8939111003e1",
-      "propertyId": "7f9a4b03-4b09-4903-9fd1-bdfc7763d7fc",
-      "propertyName": "울산 울주 소소재",
       "name": "J202 (4인실, 침대룸, 개별테라스)",
-      "nameEn": "J202",
       "description": "",
       "roomInfo": "원룸형, 거실1+침대룸(더블침대1)+주방1+화장실1+개별바비큐",
       "usageGuide": "[인원추가비(1박기준/현장결제)]\n- 추가인원 1인 20,000원\n※ 36개월 미만 1명 무료\n※ 예약 인원 외의 지인 방문 등은 절대 금지 (지인 방문도 예약 인원에 포함)\n※ 영유아 인원수 포함 / 최대인원 초과불가",
       "group": "4인실",
       "size": 59.5,
-      "sizePyeong": 18,
       "baseOccupancy": 4,
       "maxOccupancy": 4,
       "totalRoomCount": {
@@ -2804,17 +2604,6 @@
         "ondol": 0,
         "kitchen": 0
       },
-      "roomOptions": {
-        "petState": "N",
-        "barbecueState": "N",
-        "poolState": "N"
-      },
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
       "bedTypes": [
         "더블 베드"
       ],
@@ -2847,19 +2636,25 @@
         "침실분리형"
       ],
       "status": "active",
-      "bankAccountId": "7ff8675b-b594-4405-8fb8-b8a9a2bcc673",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "N",
+        "barbecueState": "N"
+      },
       "images": [
         {
-          "thumbnail": [],
-          "interior": [],
-          "exterior": []
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
         }
       ],
-      "displayOrder": 28,
-      "createdAt": "2026-04-07T03:56:16.907Z",
-      "updatedAt": "2026-04-10T00:24:33.085Z",
-      "createdBy": "3a2aa390-fb70-475b-895f-b6e3ea8ef4a2",
-      "updatedBy": "9f55b984-2b5c-4630-aecc-d7c1a7b5120a"
+      "displayOrder": 28
     }
   ],
   "homepage": {
@@ -2873,7 +2668,8 @@
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/logo/1772777332726-nkns98sgc2.png",
             "sortOrder": 0,
             "description": "",
-            "isSelected": true
+            "isSelected": true,
+            "blockId": null
           }
         ]
       }
@@ -2883,7 +2679,12 @@
       "description": "바쁜 일상에서 잠시 벗어나 조용히 쉬어가는 작은 쉼표 같은 펜션",
       "keywords": "울주소소재,울산울주소소재,소소재,소소재펜션,울산펜션,울주펜션,울산수영장펜션,울주수영장펜션,울주가족펜션,울주커플펜션,울주감성펜션,울주감성숙소,울주펜션추천,울산펜션추천,울주가볼만한곳"
     },
-    "socialLinks": {},
+    "socialLinks": {
+      "facebook": null,
+      "instagram": null,
+      "blog": null,
+      "youtube": null
+    },
     "customFields": {
       "pages": {
         "index": {
@@ -2897,66 +2698,75 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772775521036-1618a2ky3en.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "9248b452-602c-46a8-85b7-38bd3f8fda78",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772776359786-vwhwhq94iw.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "523efc2c-932a-43e9-bdc9-9eec1a772136",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772775521036-i4nrz073yxq.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "43aef622-2ec0-4ef2-a2f4-a95c480251cd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772775521036-eeiz4rj3iak.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "8566f533-b407-4a73-959f-54a5e839f7b1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1773274105859-4ybbomxkom4.jpg",
                     "sortOrder": 4,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "dde857af-90ed-40c2-b790-081b39697a24",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772776359785-2wgwtvw7v5e.jpg",
                     "sortOrder": 5,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "0bd5efbe-6bc7-4721-b0c4-3e89ddaea519",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772776359786-g7aml9in6n.jpg",
                     "sortOrder": 6,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "99d6afcc-cb9d-47fe-9fe6-c829a1b06c1d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772776359786-m7bvc1n1pnd.jpg",
                     "sortOrder": 7,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "6a6fbf31-4be1-4350-9d74-0162ca89a40d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_hero/1772776359786-y938yazcc5r.jpg",
                     "sortOrder": 8,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image"
               },
               "closing": {
@@ -2967,10 +2777,11 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_closing/1772776437714-4uar4y810l4.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -2982,17 +2793,19 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_essence/1772778240353-vadvmp2vc7.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "3fef5894-91f2-4113-a757-23a9cbf1b04f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_essence/1772778240353-6hl2aseph7g.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": "STAY SOSOJAE"
               },
@@ -3004,52 +2817,59 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-r70ui6g5ow8.jpg",
                     "sortOrder": 0,
                     "description": "공용 수영장",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "10d5716b-8322-4273-b737-495b05091d7a",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-66arp0838p5.jpg",
                     "sortOrder": 1,
                     "description": "불멍",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "b39bfa16-0a02-4c87-8ded-1cfed33cceb2",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-t8erkevqdlq.jpg",
                     "sortOrder": 2,
                     "description": "객실 내부",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "a6ee7317-920a-4cb4-b95a-ccb73e0e871d",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-dws6d6zmy6f.jpg",
                     "sortOrder": 3,
                     "description": "스파",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "67154872-1422-4299-8b58-7c7bc27d10d6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772778240353-eouciczr8s.jpg",
                     "sortOrder": 4,
                     "description": "개별 바베큐",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "0a81cccc-e713-45b8-bef6-7da42dc03558",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772785837225-su9kve2le89.jpg",
                     "sortOrder": 5,
                     "description": "노래방",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "e2632a7f-851c-4940-a4a6-df453e8be678",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_gallery/1772785837227-zbe2kd4uce.jpg",
                     "sortOrder": 6,
                     "description": "탁구장",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": " "
               },
@@ -3061,24 +2881,27 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-w4ud22xfvko.jpg",
                     "sortOrder": 0,
                     "description": "신불산과 가지산이 어우러진 영남알프스에서 통도사와 석남사를 품은 자연 속 휴식 🌿",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "9f973a25-d6b8-49bb-bf4d-5e6adf1e4e2f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-dj5qyva06ir.jpg",
                     "sortOrder": 1,
                     "description": "풍경을 바라보며 잠시 쉬어가는 여유로운 공간 🌿",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "1ef44f30-9c93-4c17-ab7b-ec8253eaf2cf",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/index_signature/1772778240353-ujunuln10bh.jpg",
                     "sortOrder": 2,
                     "description": "자연 소재를 담은 공간에서 머무는, 오래 기억에 남는 자연친화 숙소 🌿",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
-                "videos": [],
+                "videos": [ ],
                 "mediaType": "image",
                 "description": ""
               }
@@ -3096,28 +2919,32 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/directions_hero/1772778729075-noxqumayp8e.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "95626e49-f2c2-4eb0-be06-de8f9fe75eac",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/directions_hero/1772780186053-uucak7jt0bc.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "4aea0176-df8a-4483-8b11-7c7a736e03c7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/directions_hero/1772780186053-gjq64ae1e95.jpg",
                     "sortOrder": 2,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "b10c2e83-7c7e-43e2-8338-70c1bec751c9",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/directions_hero/1772778729076-npwi95a2vh8.jpg",
                     "sortOrder": 3,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
@@ -3139,7 +2966,8 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/main_hero/1772780186053-1jl9i5l2fx5i.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ],
                 "description": "신불산과 가지산이 어우러진 영남알프스 산자락\n통도사와 석남사가 자리한 울주 소소재\n자연 풍경 속에서 잠시 쉬어가는 공간입니다.\n자연 소재로 채운 자연친화 공간에서\n조용한 휴식의 시간을 만나보세요.\n\n공용 휴식 공간과 노래방, 탁구장, 세미나실 등 \n다양한 부대시설도 마련되어 있습니다.\n\n자연 속에서 머무는 특별한 하루, \n소소재에서 편안한 시간을 보내세요."
@@ -3164,8 +2992,8 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [ ],
+        "facility": [ ],
         "reservation": {
           "sections": [
             {
@@ -3177,20 +3005,22 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/reservation_hero/1772780186053-ccwwxsab55h.jpg",
                     "sortOrder": 0,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   },
                   {
                     "id": "9db5ac33-8cdf-4fd3-a4ac-ab24fbc84027",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/reservation_hero/1772786323204-oy006lu91b.jpg",
                     "sortOrder": 1,
                     "description": "",
-                    "isSelected": true
+                    "isSelected": true,
+                    "blockId": null
                   }
                 ]
               },
               "about": {
                 "title": "",
-                "images": [],
+                "images": [ ],
                 "description": ""
               }
             }
@@ -3231,6 +3061,14 @@
             "title": "",
             "images": [
               {
+                "id": "f9baaf69-3a82-4c61-a869-5b3b4e0b163f",
+                "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/popup/1777861649962-kb7uqszjf5.jpg",
+                "sortOrder": 0,
+                "description": "",
+                "isSelected": true,
+                "blockId": "b08d75a5-5eb7-4ac8-a967-a7709cb7e329"
+              },
+              {
                 "id": "587bcefc-e366-41df-ae5b-17c3cb726e21",
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9e497431-36db-4fb5-95d2-cd763c0d2e3b/popup/1775787759671-gehtkxk04gw.jpg",
                 "sortOrder": 0,
@@ -3247,7 +3085,7 @@
                 "blockId": "b08d75a5-5eb7-4ac8-a967-a7709cb7e329"
               }
             ],
-            "slider": false,
+            "slider": true,
             "enabled": true,
             "endDate": null,
             "sortOrder": 0,
@@ -3265,6 +3103,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_thumbnail"
           },
           {
@@ -3273,6 +3112,7 @@
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3281,6 +3121,7 @@
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3289,6 +3130,7 @@
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3297,6 +3139,7 @@
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3305,6 +3148,7 @@
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3313,6 +3157,7 @@
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3321,6 +3166,7 @@
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3329,6 +3175,7 @@
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3337,6 +3184,7 @@
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3345,6 +3193,7 @@
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           },
           {
@@ -3353,6 +3202,7 @@
             "sortOrder": 10,
             "description": "",
             "isSelected": true,
+            "blockId": null,
             "category": "property_exterior"
           }
         ],
